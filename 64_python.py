@@ -6,7 +6,7 @@ def is_even(num):
     print(3, "%2 == 0:", zero)
     print(3, "%2 == 1:", one)
 
-    return zero
+    return one
 
 result = is_even(3)
 
